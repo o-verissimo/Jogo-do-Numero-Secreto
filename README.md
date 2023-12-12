@@ -1,7 +1,8 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>📖 Sobre</h2>
-<p>Projeto criado por mim após concluir o curso de logica de programação com JavaScript na Alura.</p>
+<p>Projeto do jogo do número secreto, que gera um número aleatório no qual o usuário deverá descobrir.<br>
+   Este projeto foi criado por mim após concluir o curso de logica de programação com JavaScript na Alura.</p>
 
 ## 🚀 Tecnologias
 
@@ -13,5 +14,5 @@
 
 # Time
 
-| <img loading="lazy" src="https://avatars.githubusercontent.com/u/102670336?v=4" width=115><br><a href="https://github.com/o-verissimo">Paulo Pereira</a>
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/102670336?v=4" width=115><br><sub>Paulo Pereira</sub>](https://github.com/o-verissimo)
 | :---: | 
