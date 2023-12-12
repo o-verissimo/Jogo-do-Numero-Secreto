@@ -1,4 +1,14 @@
-<h1>Jogo do número secreto</h1>
+<div align="center">
+  <h1 align="center">
+    Jogo do número secreto
+    <br />
+    <br />
+   <a href="https://jogo-do-numero-secreto-rouge-nu.vercel.app">
+    <img src="https://github.com/o-verissimo/Jogo-do-Numero-Secreto/assets/102670336/48745325-2f8e-4bd9-a914-6fa634c35623"
+   </a>    
+  </h1>
+</div>
+
 
 <h2>📖 Sobre</h2>
 <p>Projeto do jogo do número secreto, que gera um número aleatório no qual o usuário deverá descobrir.<br>
